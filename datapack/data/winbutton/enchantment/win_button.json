@@ -1,5 +1,5 @@
 {
-    "description": "Winner",
+    "description": {"translate": "item.winbutton.instant_win_button","fallback":"Instant Win Button"},
     "supported_items": "minecraft:recovery_compass",
     "slots": ["mainhand"],
     "weight": 1,

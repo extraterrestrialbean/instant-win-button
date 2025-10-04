@@ -1,0 +1,5 @@
+{
+    "tellraw.winbutton.give_button.success": " gave themself an Instant Win Button",
+    "tellraw.winbutton.give_button.failure.notcreative": "Only creative mode players can use this command!",
+    "item.winbutton.instant_win_button": "Instant Win Button"
+}
