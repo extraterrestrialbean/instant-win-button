@@ -1,0 +1,5 @@
+{
+    "tellraw.winbutton.give_button.success": " hat sich einen Sofort-Sieg-Knopf gegeben",
+    "tellraw.winbutton.give_button.failure.notcreative": "Nur Spieler im Kreativmodus können diesen Befehl verwenden!",
+    "item.winbutton.instant_win_button": "Sofortsiegknopf"
+}

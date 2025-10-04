@@ -1,0 +1,5 @@
+{
+    "tellraw.winbutton.give_button.success": " gave to theirself a Button o' Winnin'",
+    "tellraw.winbutton.give_button.failure.notcreative": "This order is only fer sailors in the aimless sailin' challenge!",
+    "item.winbutton.instant_win_button": "Button o' Winnin'"
+}

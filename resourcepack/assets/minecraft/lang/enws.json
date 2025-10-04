@@ -1,0 +1,5 @@
+{
+    "tellraw.winbutton.give_button.success": " hath bestowed upon their own self one Instantaneous Button o' Wins over Wins",
+    "tellraw.winbutton.give_button.failure.notcreative": "Only thine omnipotent can use this stage direction!",
+    "item.winbutton.instant_win_button": "Instantaneous Button o' Wins over Wins"
+}

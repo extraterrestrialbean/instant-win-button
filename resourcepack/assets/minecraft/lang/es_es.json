@@ -1,0 +1,5 @@
+{
+    "tellraw.winbutton.give_button.success": " se dio un Botón de Victoria Instantánea",
+    "tellraw.winbutton.give_button.failure.notcreative": "¡Solo los jugadores en modo creativo pueden usar este comando!",
+    "item.winbutton.instant_win_button": "Botón de Victoria Instantánea"
+}
