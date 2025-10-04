@@ -1,1 +1,1 @@
-give @s recovery_compass[item_model="winbutton:win_button",enchantments={"winbutton:win_button":1},item_name={text:"Instant Win Button"},rarity=epic] 1
+give @s recovery_compass[item_model="winbutton:win_button",enchantments={"winbutton:win_button":1},item_name={text:"Instant Win Button"},rarity=epic,tooltip_display={hidden_components:["enchantments"]},enchantment_glint_override=false] 1
