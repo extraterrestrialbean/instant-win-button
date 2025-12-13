@@ -2,6 +2,6 @@
     "pack": {
         "description": "§cREQUIRED FOR WIN BUTTON",
         "max_format": [69,0],
-        "min_format": [69,0]
+        "min_format": [75,0]
     }
 }
